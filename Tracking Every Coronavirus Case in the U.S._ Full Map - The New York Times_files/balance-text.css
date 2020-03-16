@@ -1,0 +1,45 @@
+h1{box-sizing:border-box}
+.g-balancer{display:block}
+/* @media(min-width:320px){h1{padding:0 0.3em}.g-balancer[data-id="9"]{max-width:9.1em}.g-balancer[data-id="10"]{max-width:7.1em}} */
+@media(min-width:320px){h1{padding:0 0.3em}.g-balancer[data-id="10"]{max-width:7.1em}}
+@media(min-width:330px){h1{padding:0 0.4em}}
+@media(min-width:340px){h1{padding:0 0.5em}}
+@media(min-width:350px){h1{padding:0 0.7em}}
+@media(min-width:360px){h1{padding:0 0.8em}.g-balancer[data-id="10"]{max-width:13.1em}}
+@media(min-width:460px){h1{padding:0 0.3em}.g-balancer[data-id="10"]{max-width:17.8em}}
+@media(min-width:370px){h1{padding:0 0em}}
+@media(min-width:400px){h1{padding:0 0.2em}}
+@media(min-width:410px){h1{padding:0 0.3em}}
+@media(min-width:420px){h1{padding:0 0.4em}}
+@media(min-width:430px){h1{padding:0 0em}}
+@media(min-width:450px){h1{padding:0 0.1em}}
+@media(min-width:460px){h1{padding:0 0.3em}.g-balancer[data-id="9"]{max-width:17.8em}}
+@media(min-width:470px){h1{padding:0 0.4em}}
+@media(min-width:480px){h1{padding:0 0.5em}}
+@media(min-width:490px){h1{padding:0 0.7em}}
+@media(min-width:500px){h1{padding:0 0.8em}}
+@media(min-width:510px){h1{padding:0 0.9em}}
+@media(min-width:520px){h1{padding:0 1.1em}}
+@media(min-width:530px){h1{padding:0 1.2em}}
+@media(min-width:540px){h1{padding:0 1.3em}}
+@media(min-width:550px){h1{padding:0 1.5em}}
+@media(min-width:560px){h1{padding:0 1.6em}}
+@media(min-width:570px){h1{padding:0 1.7em}}
+@media(min-width:580px){h1{padding:0 1.9em}}
+@media(min-width:590px){h1{padding:0 2em}}
+@media(min-width:600px){h1{padding:0 2.1em}}
+@media(min-width:610px){h1{padding:0 0em}}
+@media(min-width:630px){h1{padding:0 0.1em}}
+@media(min-width:640px){h1{padding:0 0.2em}}
+@media(min-width:650px){h1{padding:0 0.3em}}
+@media(min-width:660px){h1{padding:0 0.5em}}
+@media(min-width:670px){h1{padding:0 0.6em}}
+@media(min-width:680px){h1{padding:0 0.7em}}
+@media(min-width:690px){h1{padding:0 0.9em}}
+@media(min-width:700px){h1{padding:0 1em}}
+@media(min-width:710px){h1{padding:0 1.1em}}
+@media(min-width:720px){h1{padding:0 1.3em}}
+@media(min-width:730px){h1{padding:0 1.4em}}
+@media(min-width:740px){h1{padding:0 2em}}
+@media(min-width:750px){h1{padding:0 2.2em}}
+@media(min-width:1030px){h1{padding:0 0.4em}}
