@@ -1482,7 +1482,7 @@ html.story .g-asset {
 
 /* Sprite CSS */
 .g-sprite-img {
-  background-image: url("https://static01.nyt.com/newsgraphics/2020/01/21/china-coronavirus/2488f6e4b62569ad43ce4cf5dace36a300b84c52/sprite-mobile.jpg");
+  background-image: url("http://web.archive.org/web/20200315011014im_/https://static01.nyt.com/newsgraphics/2020/01/21/china-coronavirus/fdc275fe2c594be30caa2fe13eb0a7ce1aab464c/sprite-mobile.jpg");
   background-repeat: no-repeat;
   background-size: 1000%;
   width: 100%;
@@ -1490,7 +1490,7 @@ html.story .g-asset {
 }
 @media (min-width: 740px) {
   .g-sprite-img {
-    background-image: url("https://static01.nyt.com/newsgraphics/2020/01/21/china-coronavirus/2488f6e4b62569ad43ce4cf5dace36a300b84c52/sprite-desktop.jpg");
+    background-image: url("http://web.archive.org/web/20200315011014im_/https://static01.nyt.com/newsgraphics/2020/01/21/china-coronavirus/fdc275fe2c594be30caa2fe13eb0a7ce1aab464c/sprite-desktop.jpg");
   }
 }
 
@@ -3158,3 +3158,24 @@ div.g-toc a {
   }
 }
 /*# sourceMappingURL=style.css.map */
+/*
+     FILE ARCHIVED ON 01:10:14 Mar 15, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:05:57 Mar 16, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.226
+  RedisCDXSource: 6.778
+  load_resource: 808.182
+  captures_list: 268.717
+  PetaboxLoader3.datanode: 181.743 (5)
+  PetaboxLoader3.resolve: 826.325 (3)
+  exclusion.robots.policy: 0.211
+  CDXLines.iter: 17.571 (3)
+  esindex: 0.016
+  LoadShardBlock: 239.881 (3)
+*/
